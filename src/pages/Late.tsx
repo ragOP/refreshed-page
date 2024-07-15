@@ -9,7 +9,7 @@ import { ToastContainer, toast, cssTransition } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Head_bg from "../assets/farzi.png";
 import Headline from "../assets/headline_spandeb1.png";
-
+import {  Link } from 'react-router-dom';
 // google tag manager
 
 const tagManagerArgs = {
@@ -409,7 +409,11 @@ export default function Fifth_SP() {
         </div>
       )}
       <div className="footer">
-        <div className="terms">Terms & Conditions | Privacy Policy</div>
+      <div className="terms">
+          <Link to="/terms-and-conditions">Terms & Conditions</Link> | 
+          <Link to="/privacy-policy">Privacy Policy</Link>
+        </div>
+        {/* <div className="terms">Terms & Conditions | Privacy Policy</div> */}
         <div className="copyright">
           Copyright © 2024 - All right reserved Daily America Savings.
         </div>
