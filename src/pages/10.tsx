@@ -10,13 +10,9 @@ import "react-toastify/dist/ReactToastify.css";
 import Head_bg from "../assets/ansari.png";
 import Headline from "../assets/headline_spandeb1.png";
 
-// google tag manager
 
-const tagManagerArgs = {
-  gtmId: "GTM-KZJBC3B",
-};
 
-TagManager.initialize(tagManagerArgs);
+
 
 export default function Abc() {
 
