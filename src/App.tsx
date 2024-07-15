@@ -4,7 +4,7 @@ import "./App.scss";
 import VeryNew from "./pages/10";
 
 import Late from "./pages/Late";
-import Terms from "./pages/Terms.css";
+import Terms from "./pages/Terms";
 
 function App() {
   return (
