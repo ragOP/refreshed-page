@@ -408,8 +408,8 @@ export default function Fifth_SP() {
           </div>
         </div>
       )}
-      <div className="footer">
-      <div className="terms">
+      <div className="footer2">
+      <div className="terms2">
           <Link to="/terms-and-conditions">Terms & Conditions</Link> | 
           <Link to="/privacy-policy">Privacy Policy</Link>
         </div>
