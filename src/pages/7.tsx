@@ -12,7 +12,7 @@ import Headline from "../assets/headline_spandeb1.png";
 
 // google tag manager
 
-const tagManagerArgs = { ca
+const tagManagerArgs = { 
   gtmId: "GTM-KZJBC3B",
 };
 
