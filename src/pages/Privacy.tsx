@@ -6,7 +6,7 @@ const Privacy = () => {
       <div className="page">
 <div className="header">
 <div className="container">
-<p className="title">Privacy Policy for Food Allowances Org.</p>
+<p className="title">Privacy Policy for Food Allowance Org.</p>
 </div>
 </div>
 <div className="translations-content-container">
