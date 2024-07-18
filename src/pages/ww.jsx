@@ -341,7 +341,7 @@ export default function Abc() {
         <>
           <div className="main-container-5">
             <div className="main-descrition-5-5">
-              <div className="main-des-title-6-7">
+              <div className="main-des-title-6-7-raghib">
                 <b>
                 Americans Over 65 Can Now Qualify For The $900 Food Allowance Card in 2024!
                 </b>
