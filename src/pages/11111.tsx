@@ -338,7 +338,7 @@ export default function Abc() {
   return (
     <div>
      {/* <ToastContainer /> */}
-      <div style={{marginBottom:'4px'}} className="top-sticky-blue-test2" id="top">
+      <div style={{marginBottom:'4px', backgroundColor: "#1e3a8a"}} className="top-sticky-blue-test2" id="top">
       Seniors Saving Journal
       </div>
       {step === "process" ? (
