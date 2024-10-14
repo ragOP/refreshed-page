@@ -416,6 +416,7 @@ export default function Abc() {
 
         </div>
         {/* <div className="terms2">Terms & Conditions | Privacy Policy</div> */}
+        <p>G2 Licensed Agent :  Gregory K. Teipelz</p>
         <div className="copyright">
           Copyright © 2024 - All right reserved Daily America Savings.
         </div>
